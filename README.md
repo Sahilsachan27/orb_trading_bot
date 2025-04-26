@@ -1,4 +1,5 @@
 📈 ORB Trading Bot
+
 This is an automated Opening Range Breakout (ORB) trading bot built in Python.
 It connects to the OANDA API, subscribes to live LTP (Last Traded Price) for selected symbols, calculates opening ranges, and places orders based on ORB breakout strategy.
 
