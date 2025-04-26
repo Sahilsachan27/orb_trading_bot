@@ -38,15 +38,15 @@ bash
 ⚙️ Project Structure
 
 orb_trading_bot/
-main.py            # Entry point to start the bot
-orb_bot.py         # Core trading logic (ORB strategy, threading)
-oanda_api.py       # API calls for getting LTP and placing orders
-utils.py           # Helper functions
-requirements.txt   # Required Python libraries
-README.md          # Project documentation
+main.py
+orb_bot.py
+oanda_api.py
+utils.py
+requirements.txt
+README.md
 logs/
-  bot.log        # Logs of the bot's actions
-
+  bot.log
+  
 📋 Requirements
 Python 3.8+
 Packages: requests, threading, logging, etc. (listed in requirements.txt)
